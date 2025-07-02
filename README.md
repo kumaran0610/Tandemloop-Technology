@@ -3,6 +3,7 @@ UX UI Design Task
 I followed the Lean UX process, focusing on quick iterations and rapid experimentation design to refine this solution.
 Image 1 - The design lacks a clear visual hierarchy and entry point, causing the user's eye to bounce between text and charts without a defined reading flow.
 solution - I followed a center-aligned layout that improves visual hierarchy, guiding users’ attention through structured data visualization for quicker comprehension.
+Design link
 
 
 Image 2 - The original pricing section lacked sufficient contrast and visual hierarchy, making key actions and plans hard to notice.
