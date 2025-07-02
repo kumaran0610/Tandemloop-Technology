@@ -1,6 +1,8 @@
 # Tandemloop-Technology
 UX UI Design Task 
 I followed the Lean UX process, focusing on quick iterations and rapid experimentation design to refine this solution.
+I used Figma and Photoshop for this redesign assessment
+
 Image 1 - The design lacks a clear visual hierarchy and entry point, causing the user's eye to bounce between text and charts without a defined reading flow.
 solution - I followed a center-aligned layout that improves visual hierarchy, guiding users’ attention through structured data visualization for quicker comprehension.
 Design link ![image alt](https://github.com/kumaran0610/Tandemloop-Technology/blob/c4f928103450878e90fd9d09e0b673c07b8a0590/Tandemloop%20IMG%201.png)
